@@ -1,0 +1,8 @@
+c:\users\melek\documents\visual studio 2010\Projects\10 luk tabandan 2lik tabana çevirme\10 luk tabandan 2lik tabana çevirme\obj\x86\Debug\_10_luk_tabandan_2lik_tabana_çevirme.Form1.resources
+c:\users\melek\documents\visual studio 2010\Projects\10 luk tabandan 2lik tabana çevirme\10 luk tabandan 2lik tabana çevirme\obj\x86\Debug\_10_luk_tabandan_2lik_tabana_çevirme.Properties.Resources.resources
+c:\users\melek\documents\visual studio 2010\Projects\10 luk tabandan 2lik tabana çevirme\10 luk tabandan 2lik tabana çevirme\obj\x86\Debug\10 luk tabandan 2lik tabana çevirme.csproj.GenerateResource.Cache
+c:\users\melek\documents\visual studio 2010\Projects\10 luk tabandan 2lik tabana çevirme\10 luk tabandan 2lik tabana çevirme\bin\Debug\10 luk tabandan 2lik tabana çevirme.exe
+c:\users\melek\documents\visual studio 2010\Projects\10 luk tabandan 2lik tabana çevirme\10 luk tabandan 2lik tabana çevirme\bin\Debug\10 luk tabandan 2lik tabana çevirme.pdb
+c:\users\melek\documents\visual studio 2010\Projects\10 luk tabandan 2lik tabana çevirme\10 luk tabandan 2lik tabana çevirme\obj\x86\Debug\10 luk tabandan 2lik tabana çevirme.exe
+c:\users\melek\documents\visual studio 2010\Projects\10 luk tabandan 2lik tabana çevirme\10 luk tabandan 2lik tabana çevirme\obj\x86\Debug\10 luk tabandan 2lik tabana çevirme.pdb
+C:\Users\melek\Documents\Visual Studio 2010\Projects\10 luk tabandan 2lik tabana çevirme\10 luk tabandan 2lik tabana çevirme\obj\x86\Debug\10 luk tabandan 2lik tabana çevirme.csprojResolveAssemblyReference.cache
