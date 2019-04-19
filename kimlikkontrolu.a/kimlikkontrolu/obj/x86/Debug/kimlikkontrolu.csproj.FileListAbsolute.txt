@@ -1,0 +1,9 @@
+c:\users\melek\documents\visual studio 2010\Projects\kimlikkontrolu\kimlikkontrolu\bin\Debug\kimlikkontrolu.exe
+c:\users\melek\documents\visual studio 2010\Projects\kimlikkontrolu\kimlikkontrolu\bin\Debug\kimlikkontrolu.pdb
+c:\users\melek\documents\visual studio 2010\Projects\kimlikkontrolu\kimlikkontrolu\obj\x86\Debug\kimlikkontrolu.Form1.resources
+c:\users\melek\documents\visual studio 2010\Projects\kimlikkontrolu\kimlikkontrolu\obj\x86\Debug\kimlikkontrolu.Properties.Resources.resources
+c:\users\melek\documents\visual studio 2010\Projects\kimlikkontrolu\kimlikkontrolu\obj\x86\Debug\kimlikkontrolu.csproj.GenerateResource.Cache
+c:\users\melek\documents\visual studio 2010\Projects\kimlikkontrolu\kimlikkontrolu\obj\x86\Debug\kimlikkontrolu.exe
+c:\users\melek\documents\visual studio 2010\Projects\kimlikkontrolu\kimlikkontrolu\obj\x86\Debug\kimlikkontrolu.pdb
+C:\Users\melek\Documents\Visual Studio 2010\Projects\kimlikkontrolu.a\kimlikkontrolu\obj\x86\Debug\kimlikkontrolu.exe
+C:\Users\melek\Documents\Visual Studio 2010\Projects\kimlikkontrolu.a\kimlikkontrolu\obj\x86\Debug\kimlikkontrolu.pdb
