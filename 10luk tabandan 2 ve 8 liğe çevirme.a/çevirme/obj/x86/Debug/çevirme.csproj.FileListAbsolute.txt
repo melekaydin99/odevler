@@ -1,0 +1,14 @@
+c:\users\melek\documents\visual studio 2010\Projects\çevirme\çevirme\bin\Debug\çevirme.exe
+c:\users\melek\documents\visual studio 2010\Projects\çevirme\çevirme\bin\Debug\çevirme.pdb
+c:\users\melek\documents\visual studio 2010\Projects\çevirme\çevirme\obj\x86\Debug\çevirme.Form1.resources
+c:\users\melek\documents\visual studio 2010\Projects\çevirme\çevirme\obj\x86\Debug\çevirme.Properties.Resources.resources
+c:\users\melek\documents\visual studio 2010\Projects\çevirme\çevirme\obj\x86\Debug\çevirme.csproj.GenerateResource.Cache
+c:\users\melek\documents\visual studio 2010\Projects\çevirme\çevirme\obj\x86\Debug\çevirme.exe
+c:\users\melek\documents\visual studio 2010\Projects\çevirme\çevirme\obj\x86\Debug\çevirme.pdb
+C:\Users\melek\Documents\Visual Studio 2010\Projects\10luk tabandan 2 ve 8 liğe çevirme.a\çevirme\obj\x86\Debug\çevirme.exe
+C:\Users\melek\Documents\Visual Studio 2010\Projects\10luk tabandan 2 ve 8 liğe çevirme.a\çevirme\obj\x86\Debug\çevirme.pdb
+C:\Users\melek\Documents\Visual Studio 2010\Projects\10luk tabandan 2 ve 8 liğe çevirme.a\çevirme\bin\Debug\çevirme.exe
+C:\Users\melek\Documents\Visual Studio 2010\Projects\10luk tabandan 2 ve 8 liğe çevirme.a\çevirme\bin\Debug\çevirme.pdb
+C:\Users\melek\Documents\Visual Studio 2010\Projects\10luk tabandan 2 ve 8 liğe çevirme.a\çevirme\obj\x86\Debug\çevirme.Form1.resources
+C:\Users\melek\Documents\Visual Studio 2010\Projects\10luk tabandan 2 ve 8 liğe çevirme.a\çevirme\obj\x86\Debug\çevirme.Properties.Resources.resources
+C:\Users\melek\Documents\Visual Studio 2010\Projects\10luk tabandan 2 ve 8 liğe çevirme.a\çevirme\obj\x86\Debug\çevirme.csproj.GenerateResource.Cache
