@@ -1,0 +1,8 @@
+c:\users\melek\documents\visual studio 2010\Projects\üs alma\üs alma\obj\x86\Debug\üs_alma.Form1.resources
+c:\users\melek\documents\visual studio 2010\Projects\üs alma\üs alma\obj\x86\Debug\üs_alma.Properties.Resources.resources
+c:\users\melek\documents\visual studio 2010\Projects\üs alma\üs alma\obj\x86\Debug\üs alma.csproj.GenerateResource.Cache
+c:\users\melek\documents\visual studio 2010\Projects\üs alma\üs alma\bin\Debug\üs alma.exe
+c:\users\melek\documents\visual studio 2010\Projects\üs alma\üs alma\bin\Debug\üs alma.pdb
+c:\users\melek\documents\visual studio 2010\Projects\üs alma\üs alma\obj\x86\Debug\üs alma.exe
+c:\users\melek\documents\visual studio 2010\Projects\üs alma\üs alma\obj\x86\Debug\üs alma.pdb
+C:\Users\melek\Documents\Visual Studio 2010\Projects\üs alma\üs alma\obj\x86\Debug\üs alma.csprojResolveAssemblyReference.cache
